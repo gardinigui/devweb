@@ -1,2 +1,2 @@
 # devweb
-Trabalho desenvolvimento WEAB
+Trabalho desenvolvimento WEB
